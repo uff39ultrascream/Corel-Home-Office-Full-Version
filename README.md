@@ -239,4 +239,4 @@ This repository serves as the official landing page for Corel Home Office. The s
 **Get the most recent version of Corel Home Office today!**
 
 ---
-**Last updated:** 2026-09-27 18:11:31 UTC
+**Last updated:** 2026-09-27 21:56:29 UTC
